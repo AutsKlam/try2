@@ -10,4 +10,6 @@
 
 日常：发 `git更新`。查看：发 `历史版本`。恢复：发 `版本撤回 <哈希>`。
 
+实现：`help/scripts/`（`git-update.sh` / `history.sh` / `revert.sh`），Agent 一条命令调用。
+
 Skill 在本机 `.cursor/skills/git-repo-ops/`（不上传）。
